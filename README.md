@@ -26,6 +26,8 @@ In this project I created a website using HTML/CSS and bootstrap to display data
 
 The final result was the working website that allowed for five different categories to filter the data: date, city, state, country, and shape of the UFO.
 
+To access the webpage you can click here: https://pady7.github.io/UFOs/
+
 
 
 * The website displays the data in the form of a well structured table with UFO's sighting date, city, state, country, shape, duration, and additional comments.
